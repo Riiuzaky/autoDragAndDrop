@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 03 10:18:22 COT 2024","Wed Jul 03 10:18:32 COT 2024","9661","chromium","login.spec.ts","@Feature: El usuario hace login en la pagina > Scenario: El usuario ingresa credenciales correctas","","","Scenario: Usuario ingresa a su cuenta",""
+"passed","Wed Jul 03 10:18:22 COT 2024","Wed Jul 03 10:18:35 COT 2024","13049","chromium","DragAndDrop.spec.ts","@Feature: El usuario hace drag and drop en la pagina > Scenario: El usuario hace drag and drop en la pagina","","","Scenario: El usuario hace drag and drop en la pagina",""
+"passed","Wed Jul 03 10:18:22 COT 2024","Wed Jul 03 10:18:29 COT 2024","6952","chromium","upload.spec.ts","@Feature: El usuario hace upload en la pagina > Scenario: El usuario hace upload","","","Scenario: El usuario carga un archivo",""
